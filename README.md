@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
