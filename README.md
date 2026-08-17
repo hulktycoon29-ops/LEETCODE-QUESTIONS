@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
@@ -60,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
