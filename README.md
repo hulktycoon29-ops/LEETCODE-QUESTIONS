@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Linked List
