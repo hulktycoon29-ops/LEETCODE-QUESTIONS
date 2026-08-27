@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
 ## Divide and Conquer
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
