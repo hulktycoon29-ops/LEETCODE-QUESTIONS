@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
@@ -98,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -122,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
