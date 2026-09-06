@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
