@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
