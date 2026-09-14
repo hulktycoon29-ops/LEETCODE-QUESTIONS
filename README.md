@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
