@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
