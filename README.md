@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
+| [0445-add-two-numbers-ii](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
