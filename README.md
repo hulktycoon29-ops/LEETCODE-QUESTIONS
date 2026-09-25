@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0231-power-of-two) |
 ## Math
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
