@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 ## Merge Sort
 |  |
 | ------- |
