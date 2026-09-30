@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2974-minimum-number-game](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 ## Memoization
 |  |
 | ------- |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
