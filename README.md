@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2652-sum-multiples) |
 ## Divide and Conquer
