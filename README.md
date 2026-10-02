@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2652-sum-multiples) |
 ## Divide and Conquer
