@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/hulktycoon29-ops/LEETCODE-QUESTIONS/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
